@@ -124,8 +124,8 @@
 
 ### 📬 Контактная информация
 
-- 📧 Email: [example@example.com](mailto:example@example.com)
-- 💼 LinkedIn: [Илья на LinkedIn](https://www.linkedin.com/in/твоя-ссылка-на-linkedin)
+- 📧 Email: [ilyareztcov@gmail.com](mailto:ilyareztcov@gmail.com)
+- 💼 LinkedIn: [Илья на LinkedIn](#)
 - 💬 Discord: Rillifan
 
 ---
