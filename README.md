@@ -14,9 +14,6 @@
   <a href="https://github.com/ReallyChubrik" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-ReallyChubrik-black" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/твоя-ссылка-на-linkedin" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Илья-blue" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
