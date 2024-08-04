@@ -32,6 +32,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
+
+---
+https://www.codewars.com/users/Rillifan/badges/large
 <!--
 **ReallyChubrik/ReallyChubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
