@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠 Технологии и инструменты
+### 🖥️ Технологии и инструменты
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
@@ -58,7 +58,6 @@
 
 - Освоить продвинутые темы в Django и Flask.
 - Изучить и внедрить Docker и Kubernetes в своих проектах.
-- Написать техническую статью по одной из изученных технологий.
 - Участвовать в open-source проектах и внести вклад в сообщество.
 
 ---
@@ -71,6 +70,7 @@
 
 ---
 
+### 📈 Статистика CodeWars
 <div align="center">
   <a href="https://www.codewars.com/users/Rillifan" target="_blank">
     <img src="https://www.codewars.com/users/Rillifan/badges/large" alt="Codewars Badge" />
