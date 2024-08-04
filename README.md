@@ -67,14 +67,37 @@
 
 Я активно обучаюсь на платформе Stepik и получил сертификаты за следующие курсы:
 
-1. **[Python: основы и работа с данными](https://stepik.org/course/68343)** 
-   - Сертификат: [Смотреть](https://stepik.org/cert/2122005)
-2. **[Алгоритмы и структуры данных на Python](https://stepik.org/course/98974)** 
-   - Сертификат: [Смотреть](https://stepik.org/cert/2147870)
-3. **[Git и GitHub для начинающих](https://stepik.org/course/188355)** 
-   - Сертификат: [Смотреть](https://stepik.org/cert/2533804)
-4. **[Введение в базы данных](https://stepik.org/course/183363)** 
-   - Сертификат: [Смотреть](https://stepik.org/cert/2526419)
+<table align="center">
+  <thead>
+    <tr>
+      <th>Название курса</th>
+      <th>Ссылка на курс</th>
+      <th>Сертификат</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python: основы и работа с данными</td>
+      <td><a href="https://stepik.org/course/68343" target="_blank">Смотреть курс</a></td>
+      <td><a href="https://stepik.org/cert/2122005" target="_blank">Смотреть сертификат</a></td>
+    </tr>
+    <tr>
+      <td>Алгоритмы и структуры данных на Python</td>
+      <td><a href="https://stepik.org/course/98974" target="_blank">Смотреть курс</a></td>
+      <td><a href="https://stepik.org/cert/2147870" target="_blank">Смотреть сертификат</a></td>
+    </tr>
+    <tr>
+      <td>Git и GitHub для начинающих</td>
+      <td><a href="https://stepik.org/course/188355" target="_blank">Смотреть курс</a></td>
+      <td><a href="https://stepik.org/cert/2533804" target="_blank">Смотреть сертификат</a></td>
+    </tr>
+    <tr>
+      <td>Введение в базы данных</td>
+      <td><a href="https://stepik.org/course/183363" target="_blank">Смотреть курс</a></td>
+      <td><a href="https://stepik.org/cert/2526419" target="_blank">Смотреть сертификат</a></td>
+    </tr>
+  </tbody>
+</table>
 
 Мой полный профиль и список всех курсов можно посмотреть [здесь](https://stepik.org/users/589133472/profile).
 
