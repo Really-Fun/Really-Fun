@@ -154,7 +154,7 @@
 ### 🌟
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Coding" width="300"/>
+   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Coding" width="300"/>
   <pre>
         __  __           _       _           
        |  \/  |         (_)     | |          
