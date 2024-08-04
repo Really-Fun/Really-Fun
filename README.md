@@ -58,7 +58,6 @@
 - Участвовать в open-source проектах и внести вклад в сообщество.
 
 ---
----
 
 ### 📚 Пройденные курсы на Stepik
 
@@ -111,21 +110,19 @@
 
 ---
 
-### 📈 Статистика CodeWars
+### 🔥 Статистика CodeWars
 <div align="center">
   <a href="https://www.codewars.com/users/Rillifan" target="_blank">
     <img src="https://www.codewars.com/users/Rillifan/badges/large" alt="Codewars Badge" />
   </a>
 </div>
 
----
 
 ---
 
 ### 📬 Контактная информация
 
 - 📧 Email: [ilyareztcov@gmail.com](mailto:ilyareztcov@gmail.com)
-- 💼 LinkedIn: [Илья на LinkedIn](#)
 - 💬 Discord: Rillifan
 
 ---
@@ -140,9 +137,11 @@
 
 ### 🎨 Интересы и хобби
 
-- 🎮 Гейминг
 - 📚 Чтение технической литературы
 - 🏋️‍♂️ Занятия спортом
+- 🎸 Игра на гитаре
+- 🎮 Гейминг
+- 🧮 Вероятность и комбинаторика
 
 ---
 
