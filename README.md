@@ -77,22 +77,22 @@
   </thead>
   <tbody>
     <tr>
-      <td>Python: основы и работа с данными</td>
+      <td>Python: Курс для продвинутых</td>
       <td><a href="https://stepik.org/course/68343" target="_blank">Смотреть курс</a></td>
       <td><a href="https://stepik.org/cert/2122005" target="_blank">Смотреть сертификат</a></td>
     </tr>
     <tr>
-      <td>Алгоритмы и структуры данных на Python</td>
+      <td>ООП</td>
       <td><a href="https://stepik.org/course/98974" target="_blank">Смотреть курс</a></td>
       <td><a href="https://stepik.org/cert/2147870" target="_blank">Смотреть сертификат</a></td>
     </tr>
     <tr>
-      <td>Git и GitHub для начинающих</td>
+      <td>Selenium</td>
       <td><a href="https://stepik.org/course/188355" target="_blank">Смотреть курс</a></td>
       <td><a href="https://stepik.org/cert/2533804" target="_blank">Смотреть сертификат</a></td>
     </tr>
     <tr>
-      <td>Введение в базы данных</td>
+      <td>Django</td>
       <td><a href="https://stepik.org/course/183363" target="_blank">Смотреть курс</a></td>
       <td><a href="https://stepik.org/cert/2526419" target="_blank">Смотреть сертификат</a></td>
     </tr>
