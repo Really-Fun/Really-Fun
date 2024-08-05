@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-17-blue" alt="Возраст"/>
   <img src="https://img.shields.io/badge/Backend_Developer-in_progress-yellow" alt="Backend Developer"/>
-  <img src="https://img.shields.io/github/followers/ReallyChubrik?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/Really-Fun?style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Codewars-Profile-red" alt="Codewars Profile"/>
 </p>
 
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Discord-Rillifan-%237289DA" alt="Discord" />
   </a>
   <a href="https://github.com/ReallyChubrik" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-ReallyChubrik-black" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Really-Fun-black" alt="GitHub" />
   </a>
 </p>
 
@@ -102,10 +102,10 @@
 ### 📈 Статистика GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReallyChubrik&show_icons=true&theme=radical" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Really-Fun&show_icons=true&theme=radical" alt="Статистика GitHub" />
 </div>
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReallyChubrik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Really-Fun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
