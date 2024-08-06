@@ -11,8 +11,8 @@
   <a href="https://discord.com/users/rillifan" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-Rillifan-%237289DA" alt="Discord" />
   </a>
-  <a href="https://github.com/ReallyChubrik" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Really\-Fun-black" alt="GitHub" />
+  <a href="https://github.com/Really-Fun" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Really\\-Fun-black" alt="GitHub" />
   </a>
 </p>
 
