@@ -58,8 +58,8 @@
   <table border="0">
     <tr>
       <td>
-        <a href="https://leetcode.com/u/Really-Fun/" target="_blank">
-          <img src="https://leetcode-stats-six.vercel.app/api?username=Really-Fun&theme=dark" alt="LeetCode Stats" />
+        <a href="https://leetcode.com/u/Rillifan/" target="_blank">
+          <img src="https://leetcode-stats-six.vercel.app/api?username=Rillifan&theme=dark" alt="LeetCode Stats" />
         </a>
       </td>
       <td>
@@ -69,7 +69,7 @@
       </td>
     </tr>
   </table>
-  <p><i>Инженерный флекс: 0ms (Beats 100%) на Hard задачах.</i></p>
+  <p><i>Инженерный флекс: 0ms (Beats 100%) на medium задачах.</i></p>
 </div>
 
 ---
