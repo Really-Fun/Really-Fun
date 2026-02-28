@@ -91,11 +91,14 @@ Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
 
 ---
 
-### 📈 Статистика GitHub
+📈 Статистика GitHub
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DReally-Fun%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D4FF%26icon_color%3D00D4FF" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DReally-Fun%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00D4FF" width="42%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Really-Fun&show_icons=true&theme=radical&rank_icon=github" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Really-Fun&layout=compact&theme=dracula" width="300" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Really-Fun/Really-Fun/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
