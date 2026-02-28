@@ -10,21 +10,22 @@
 </p>
 
 <p align="center">
-  <a href="#-обо-мне"><strong>Обо мне</strong></a> • 
-  <a href="#%EF%B8%8F-мои-проекты"><strong>Проекты</strong></a> • 
-  <a href="#%EF%B8%8F-технологии-и-инструменты"><strong>Стэк</strong></a> • 
-  <a href="#-алгоритмы-и-челленджи"><strong>Алгоритмы</strong></a> • 
-  <a href="#-статистика-github"><strong>Стата</strong></a> • 
-  <a href="#-контакты"><strong>Связь</strong></a>
+  <a href="#-обо-мне"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="#-key-projects"><img src="https://img.shields.io/badge/-PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-технологии"><img src="https://img.shields.io/badge/-STACK-00D4FF?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#-алгоритмы"><img src="https://img.shields.io/badge/-ALGORITHMS-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="#-статистика"><img src="https://img.shields.io/badge/-STATS-00D4FF?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 Обо мне
-
-Я не просто пишу код — я создаю системы, которые решают сложные задачи. С 7 класса я в игре (начал с **C++**), а сейчас выжимаю максимум из **Python**.
-
-Верю в **Clean Architecture** и производительность. Мой девиз: *«Если алгоритм можно оптимизировать до $O(\log n)$, я не успокоюсь на $O(n)$.»*
+```zsh
+> whoami
+ReallyFun: 18 y.o. engineer from Russia.
+Status: Building robust backend systems & exploring cybersecurity.
+Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
+```
 
 ---
 
