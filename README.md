@@ -1,10 +1,9 @@
-<h1 align="center">Привет, меня зовут Илья! 👋</h1>
+<h1 align="center"> Привет, я <strong>ReallyFun</strong> | System & Automation Engineer </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-18-blue" alt="Возраст"/>
-  <img src="https://img.shields.io/badge/Backend_Developer-in_progress-yellow" alt="Backend Developer"/>
-  <img src="https://img.shields.io/github/followers/Really-Fun?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Codewars-Profile-red" alt="Codewars Profile"/>
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.14-776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-System_Architecture-red?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -30,19 +29,17 @@
 
 ### 👨‍💻 Обо мне
 
-Меня зовут Илья, мне 18 лет, и я начинаю свой путь в Backend разработке. 
+Я не просто пишу код — я создаю системы, которые решают сложные задачи.
 
-С программированием я познакомился еще в 7 классе. Начал с языка **C++**, на котором писал небольшие программы, такие как калькуляторы, игры в карты и змейки. В 9 классе, когда мне было 15 лет, я открыл для себя **Python** и начал активно его изучать. Сейчас я продолжаю развивать свои навыки, изучая фреймворки и технологии, связанные с веб-разработкой и DevOps.
+Я верю в **Clean Architecture** и производительность. Если алгоритм можно оптимизировать до $O(\log n)$, я не успокоюсь на $O(n)$.
 
 ---
 
-### 🛠️ Мои проекты
+### 🛠️ Key Projects (То, чем я горжусь)
 
-Вот несколько проектов, над которыми я работал:
-
-- **[Телеграм-бот для подготовки к ЕГЭ](https://github.com/Really-Fun/EgeBot)**: помогает студентам готовиться к экзаменам.
-- **[Бот для Учи.ру](#)**: автоматизирует выполнение задач на образовательной платформе.
-- **[Advent сайт на Django](#)**: веб-проект, разработанный в рамках учебного курса.
+* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-комбайн на PySide6. Интеграция с YouTube/Yandex Music API, глубокая работа с `asyncio` и многопоточностью для плавного UI.
+* **[Multi-Agent Automation System (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Сложная система автоматизации. Использовал "sandbox" аккаунты для рекурсивного поиска решений и обхода анти-фрод систем платформы. Мой первый серьезный опыт в Gray Hat автоматизации.
+* **[GhostHTTP (In Progress)]** — Исследование в области сетевой безопасности: протокол маскировки трафика под стандартный TLS/HTTPS для обхода DPI.
 
 ---
 
