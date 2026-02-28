@@ -1,159 +1,117 @@
-<h1 align="center"> Привет, я <strong>ReallyFun</strong> | System & Automation Engineer </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Привет,+я+ReallyFun;System+%26+Automation+Engineer;Future+Pentester" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.14-776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-System_Architecture-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Future-Pentester-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/rillifan" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-Rillifan-%237289DA" alt="Discord" />
-  </a>
-  <a href="https://github.com/Really-Fun" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-ReallyFun-black" alt="GitHub" />
-  </a>
+  <a href="#-обо-мне"><strong>Обо мне</strong></a> • 
+  <a href="#%EF%B8%8F-мои-проекты"><strong>Проекты</strong></a> • 
+  <a href="#%EF%B8%8F-технологии-и-инструменты"><strong>Стэк</strong></a> • 
+  <a href="#-алгоритмы-и-челленджи"><strong>Алгоритмы</strong></a> • 
+  <a href="#-статистика-github"><strong>Стата</strong></a> • 
+  <a href="#-контакты"><strong>Связь</strong></a>
 </p>
-
-##  Навигация
-- [👨‍💻 Обо мне](#-обо-мне)
-- [🛠️ Проекты](#%EF%B8%8F-мои-проекты)
-- [🖥️ Технологии](#%EF%B8%8F-технологии-и-инструменты)
-- [🚀 Цели на 2025](#-мои-цели-на-2025-год)
-- [📚 Курсы](#-пройденные-курсы-на-stepik)
-- [📈 Статистика](#-статистика-github)
-- [📬 Контакты](#-статистика-codewars)
-- [🎨 Интересы](#-интересы-и-хобби)
 
 ---
 
 ### 👨‍💻 Обо мне
 
-Я не просто пишу код — я создаю системы, которые решают сложные задачи.
+Я не просто пишу код — я создаю системы, которые решают сложные задачи. С 7 класса я в игре (начал с **C++**), а сейчас выжимаю максимум из **Python**.
 
-Я верю в **Clean Architecture** и производительность. Если алгоритм можно оптимизировать до $O(\log n)$, я не успокоюсь на $O(n)$.
+Верю в **Clean Architecture** и производительность. Мой девиз: *«Если алгоритм можно оптимизировать до $O(\log n)$, я не успокоюсь на $O(n)$.»*
 
 ---
 
 ### 🛠️ Key Projects (То, чем я горжусь)
 
-* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-комбайн на PySide6. Интеграция с YouTube/Yandex Music API, глубокая работа с `asyncio` и многопоточностью для плавного UI.
-* **[Multi-Agent Automation System (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Сложная система автоматизации. Использовал "sandbox" аккаунты для рекурсивного поиска решений и обхода анти-фрод систем платформы. Мой первый серьезный опыт в Gray Hat автоматизации.
-* **[GhostHTTP (In Progress)]** — Исследование в области сетевой безопасности: протокол маскировки трафика под стандартный TLS/HTTPS для обхода DPI.
+* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-комбайн на PySide6. Интеграция с YouTube/Yandex Music API, глубокая работа с `asyncio`.
+* **[Multi-Agent Automation (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Система автоматизации с "sandbox" аккаунтами и рекурсивным поиском. Мой первый Gray Hat опыт.
+* **[GhostHTTP (In Progress)]** — Исследование в области сетевой безопасности: протокол маскировки трафика под TLS для обхода DPI.
 
 ---
 
 ### 🖥️ Технологии и инструменты
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,django,postgres,git,linux,docker,vscode,postman,githubactions" />
+</p>
 
 ---
 
-### 🚀 Мои цели на 2025 год
+### 🚀 Мои цели на 2026 год
 
-- Изучить и внедрить Docker и Kubernetes в своих проектах.
-- Участвовать в open-source проектах и внести вклад в сообщество.
-- Изучить асинхронное програмирование.
+- [ ] Внедрить Kubernetes в домашние проекты.
+- [ ] Получить первый Bug Bounty или закрыть сложную машину на HackTheBox.
+- [ ] Внести контрибьюшн в крупную асинхронную либу.
+
+---
+
+### 🧠 Алгоритмы и Челленджи
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://leetcode.com/u/Really-Fun/" target="_blank">
+          <img src="https://leetcode-stats-six.vercel.app/api?username=Really-Fun&theme=dark" alt="LeetCode Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.codewars.com/users/Rillifan" target="_blank">
+          <img src="https://www.codewars.com/users/Rillifan/badges/large" alt="Codewars Badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p><i>Инженерный флекс: 0ms (Beats 100%) на Hard задачах.</i></p>
+</div>
 
 ---
 
 ### 📚 Пройденные курсы на Stepik
 
-Я активно обучаюсь на платформе Stepik и получил сертификаты за следующие курсы:
+<details>
+<summary>👉 Нажми, чтобы посмотреть сертификаты</summary>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Название курса</th>
-      <th>Ссылка на курс</th>
-      <th>Сертификат</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Python: Курс для продвинутых</td>
-      <td><a href="https://stepik.org/course/68343" target="_blank">Смотреть курс</a></td>
-      <td><a href="https://stepik.org/cert/2122005" target="_blank">Смотреть сертификат</a></td>
-    </tr>
-    <tr>
-      <td>ООП</td>
-      <td><a href="https://stepik.org/course/98974" target="_blank">Смотреть курс</a></td>
-      <td><a href="https://stepik.org/cert/2147870" target="_blank">Смотреть сертификат</a></td>
-    </tr>
-    <tr>
-      <td>Selenium</td>
-      <td><a href="https://stepik.org/course/188355" target="_blank">Смотреть курс</a></td>
-      <td><a href="https://stepik.org/cert/2533804" target="_blank">Смотреть сертификат</a></td>
-    </tr>
-    <tr>
-      <td>Django</td>
-      <td><a href="https://stepik.org/course/183363" target="_blank">Смотреть курс</a></td>
-      <td><a href="https://stepik.org/cert/2526419" target="_blank">Смотреть сертификат</a></td>
-    </tr>
-  </tbody>
-</table>
+| Название курса | Ссылка | Сертификат |
+| :--- | :--- | :--- |
+| Python: Для продвинутых | [Stepik](https://stepik.org/course/68343) | [🏆](https://stepik.org/cert/2122005) |
+| ООП на Python | [Stepik](https://stepik.org/course/98974) | [🏆](https://stepik.org/cert/2147870) |
+| Selenium | [Stepik](https://stepik.org/course/188355) | [🏆](https://stepik.org/cert/2533804) |
+| Django | [Stepik](https://stepik.org/course/183363) | [🏆](https://stepik.org/cert/2526419) |
 
-Мой полный профиль и список всех курсов можно посмотреть [здесь](https://stepik.org/users/589133472/profile).
+</details>
 
 ---
 
 ### 📈 Статистика GitHub
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Really-Fun&show_icons=true&theme=radical" alt="Статистика GitHub" />
-</div>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Really-Fun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Really-Fun&show_icons=true&theme=radical&rank_icon=github" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Really-Fun&layout=compact&theme=dracula" width="300" />
+</p>
 
 ---
 
-### 🔥 Статистика CodeWars
-<div align="center">
-  <a href="https://www.codewars.com/users/Rillifan" target="_blank">
-    <img src="https://www.codewars.com/users/Rillifan/badges/large" alt="Codewars Badge" />
-  </a>
-</div>
+### 📬 Контакты
 
-
----
-
-### 📬 Контактная информация
-
-- 📧 Email: [ilyareztcov@gmail.com](mailto:ilyareztcov@gmail.com)
-- 💬 Discord: Rillifan
+<p align="left">
+  <a href="mailto:ilyareztcov@gmail.com"><img src="https://img.shields.io/badge/Email-ilyareztcov%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/rillifan"><img src="https://img.shields.io/badge/Discord-Rillifan-%237289DA?style=flat-square&logo=discord&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🤝 Открыт для сотрудничества
-
-- 🔭 Работаю над проектами на Python и Django.
-- 🌱 Изучаю новые технологии и всегда открыт для новых возможностей.
-- 💬 Готов сотрудничать в области веб-разработки и DevOps.
-- Готов к учёбе.
-
----
-
-### 🎨 Интересы и хобби
-
-- 📚 Чтение технической литературы
-- 🏋️‍♂️ Занятия спортом
-- 🎸 Игра на гитаре
-- 🎮 Гейминг
-- 🧮 Вероятность и комбинаторика
-
----
-
-### 🌟
+### 🌟 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Stay+hungry.+Stay+foolish.;Build+something+that+matters." alt="Typing SVG" />
+</p>
 
 <div align="center">
   <pre>
@@ -163,27 +121,5 @@
  |  _  / / _ \ / _` || || || | | ||  __|| | | || '_ \ 
  | | \ \|  __/| (_| || || || |_| || |   | |_| || | | |
  |_|  \_\\___| \__,_||_||_| \__, ||_|    \__,_||_| |_|
-                             __/ |                    
-                            |___/                     
   </pre>
 </div>
-
----
-
-<p align="center">
-  Если вам понравился мой профиль, не забудьте поставить ⭐ на мои репозитории и следить за моими обновлениями!
-</p>
-<!--
-**ReallyChubrik/ReallyChubrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
