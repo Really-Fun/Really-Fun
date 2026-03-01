@@ -86,6 +86,7 @@ Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
 | ООП на Python | [Stepik](https://stepik.org/course/98974) | [🏆](https://stepik.org/cert/2147870) |
 | Selenium | [Stepik](https://stepik.org/course/188355) | [🏆](https://stepik.org/cert/2533804) |
 | Django | [Stepik](https://stepik.org/course/183363) | [🏆](https://stepik.org/cert/2526419) |
+| Инди-курс по Python | [Stepik](https://stepik.org/cert/2128099) | [🏆](https://stepik.org/cert/2128099) |
 
 </details>
 
