@@ -25,14 +25,15 @@
 ReallyFun: 18 y.o. engineer from Russia.
 Status: Building robust backend systems & exploring cybersecurity.
 Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
+Hobbies: guitar, sport, videogames
 ```
 
 ---
 
 ### 🛠️ Key Projects (То, чем я горжусь)
 
-* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-комбайн на PySide6. Интеграция с YouTube/Yandex Music API, глубокая работа с `asyncio`.
-* **[Multi-Agent Automation (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Система автоматизации с "sandbox" аккаунтами и рекурсивным поиском. Мой первый Gray Hat опыт.
+* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-плеер на PySide6. Интеграция с YouTube/Yandex Music API, глубокая работа с `asyncio`.
+* **[Multi-Agent Automation (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Система автоматизации с "sandbox" аккаунтами и рекурсивным поиском. Моё лучшее творение.
 * **[GhostHTTP (In Progress)]** — Исследование в области сетевой безопасности: протокол маскировки трафика под TLS для обхода DPI.
 
 ---
@@ -48,8 +49,10 @@ Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
 ### 🚀 Мои цели на 2026 год
 
 - [ ] Внедрить Kubernetes в домашние проекты.
-- [ ] Получить первый Bug Bounty или закрыть сложную машину на HackTheBox.
+- [ ] Получить оффер || поучавстовать в стартапе || фриланс.
 - [ ] Внести контрибьюшн в крупную асинхронную либу.
+- [ ] Вспомнить Django
+- [ ] Допилить проекты
 
 ---
 
