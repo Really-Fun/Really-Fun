@@ -66,8 +66,8 @@ Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
     <img src="https://leetcard.jacoblin.cool/Rillifan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 
-  <p><i>Инженерный флекс: 0ms (Beats 100%) на Hard/Medium задачах.</i></p>
 </div>
+
 ---
 
 ### 📚 Пройденные курсы на Stepik
