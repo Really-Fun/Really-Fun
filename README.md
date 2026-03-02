@@ -54,26 +54,20 @@ Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
 ---
 
 ### 🧠 Алгоритмы и Челленджи
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rillifan?theme=dark)](https://leetcode.com/Rillifan/)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://leetcode.com/u/Rillifan/" target="_blank">
-          <img src="https://leetcode-stats-six.vercel.app/api?username=Rillifan&theme=dark" alt="LeetCode Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.codewars.com/users/Rillifan" target="_blank">
-          <img src="https://www.codewars.com/users/Rillifan/badges/large" alt="Codewars Badge" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <p><i>Инженерный флекс: 0ms (Beats 100%) на medium задачах.</i></p>
-</div>
+  <a href="https://www.codewars.com/users/Rillifan" target="_blank">
+    <img src="https://www.codewars.com/users/Rillifan/badges/large" alt="Codewars Badge" />
+  </a>
+  
+  <br>
+  
+  <a href="https://leetcode.com/u/Rillifan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Rillifan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 
+  <p><i>Инженерный флекс: 0ms (Beats 100%) на Hard/Medium задачах.</i></p>
+</div>
 ---
 
 ### 📚 Пройденные курсы на Stepik
