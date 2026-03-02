@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-System_Architecture-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Future-Pentester-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 </p>
@@ -54,6 +54,7 @@ Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
 ---
 
 ### 🧠 Алгоритмы и Челленджи
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rillifan?theme=dark)](https://leetcode.com/Rillifan/)
 
 <div align="center">
   <table border="0">
