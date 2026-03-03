@@ -13,7 +13,7 @@
   <a href="#about"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="#projects"><img src="https://img.shields.io/badge/-PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#stack"><img src="https://img.shields.io/badge/-STACK-00D4FF?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#certs"><img src="https://img.shields.io/badge/-CERTIFICATES-66CC66?style=for-the-badge&logo=gitbook&logoColor=white"></a>
+  <a href="#certs"><img src="https://img.shields.io/badge/-CERTIFICATES-00D4FF?style=for-the-badge&logo=gitbook&logoColor=white"></a>
   <a href="#algorithms"><img src="https://img.shields.io/badge/-ALGORITHMS-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="#stats"><img src="https://img.shields.io/badge/-STATS-00D4FF?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
 </p>
