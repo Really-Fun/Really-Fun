@@ -24,20 +24,30 @@
 ### 👨‍💻 Обо мне
 ```zsh
 > whoami
-ReallyFun: 18 y.o. engineer from Russia.
-Status: Building robust backend systems & exploring cybersecurity.
+ReallyFun: Backend & System Engineer from Russia.
+Status: Building robust backend systems, exploring network security and low-level programming.
+Tech Focus: Python (Asyncio), System Architecture, Linux (Arch), C/C++ (university).
+Background: Strong foundation in discrete mathematics, combinatorics, and algorithms.
 Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
-Hobbies: guitar, sport, videogames
+Languages: Russian (Native), English (B1 - Technical).
 ```
 
 ---
 
 <a name="projects"></a>
-### 🛠️ Key Projects (То, чем я горжусь)
+### 🛠️ Key Projects
 
-* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-плеер на PySide6. Интеграция с YouTube/Yandex Music API, глубокая работа с `asyncio`.
-* **[Multi-Agent Automation (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Система автоматизации с "sandbox" аккаунтами и рекурсивным поиском. Моё лучшее творение.
-* **[GhostHTTP (In Progress)]** — Исследование в области сетевой безопасности: протокол маскировки трафика под TLS для обхода DPI.
+* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-плеер с потоковой передачей данных.
+  * **Стек:** `Python`, `PySide6`, `asyncio`, `YouTube API`, `Yandex Music API`.
+  * **Фокус:** Глубокая работа с конкурентностью (`asyncio`) для обеспечения плавности UI при высоких сетевых нагрузках и обработке медиа.
+
+* **[Multi-Agent Automation (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Распределенная система автоматизации с "sandbox" аккаунтами.
+  * **Стек:** `Python`, `asyncio`, REST API.
+  * **Фокус:** Проектирование архитектуры для параллельного управления множеством агентов, реализация алгоритмов рекурсивного поиска и обработки данных.
+
+* **[GhostHTTP (In Progress)]** — Research-проект в области сетевой безопасности и обхода блокировок.
+  * **Стек:** `Python` / `C`, `Networking`, `TLS/SSL`.
+  * **Фокус:** Разработка кастомного протокола маскировки трафика под стандартный TLS для обхода систем DPI (Deep Packet Inspection). Анализ сетевых пакетов.
 
 ---
 
