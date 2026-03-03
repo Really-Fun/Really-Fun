@@ -10,15 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="#-обо-мне"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-  <a href="#-key-projects-то-чем-я-горжусь"><img src="https://img.shields.io/badge/-PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-технологии-и-инструменты"><img src="https://img.shields.io/badge/-STACK-00D4FF?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#-алгоритмы-и-челленджи"><img src="https://img.shields.io/badge/-ALGORITHMS-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="#-статистика-github"><img src="https://img.shields.io/badge/-STATS-00D4FF?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/-PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/-STACK-00D4FF?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a gref="certs"><img src="https://img.shields.io/badge/-CERTIFICATES-00D4FF?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#algorithms"><img src="https://img.shields.io/badge/-ALGORITHMS-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/-STATS-00D4FF?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
 </p>
 
 ---
 
+<a name="about"></a>
 ### 👨‍💻 Обо мне
 ```zsh
 > whoami
@@ -30,6 +32,7 @@ Hobbies: guitar, sport, videogames
 
 ---
 
+<a name="projects"></a>
 ### 🛠️ Key Projects (То, чем я горжусь)
 
 * **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-плеер на PySide6. Интеграция с YouTube/Yandex Music API, глубокая работа с `asyncio`.
@@ -38,6 +41,7 @@ Hobbies: guitar, sport, videogames
 
 ---
 
+<a name="stack"></a>
 ### 🖥️ Технологии и инструменты
 
 <p align="center">
@@ -56,6 +60,7 @@ Hobbies: guitar, sport, videogames
 
 ---
 
+<a name="algorithms"></a>
 ### 🧠 Алгоритмы и Челленджи
 
 <div align="center">
@@ -73,6 +78,7 @@ Hobbies: guitar, sport, videogames
 
 ---
 
+<a name="certs"></a>
 ### 📚 Пройденные курсы на Stepik
 
 <details>
@@ -90,7 +96,9 @@ Hobbies: guitar, sport, videogames
 
 ---
 
+<a name="stats"></a>
 📈 Статистика GitHub
+
 <picture>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Really-Fun/Really-Fun/output/github-contribution-grid-snake-dark.svg">
 </picture>
