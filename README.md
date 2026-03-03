@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#👨‍💻-обо-мне"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="#-👨‍💻-обо-мне"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="#-key-projects"><img src="https://img.shields.io/badge/-PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#-технологии"><img src="https://img.shields.io/badge/-STACK-00D4FF?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="#-алгоритмы"><img src="https://img.shields.io/badge/-ALGORITHMS-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
