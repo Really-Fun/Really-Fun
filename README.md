@@ -42,7 +42,7 @@ Languages: Russian (Native), English (B1 - Technical).
   * **Фокус:** Глубокая работа с конкурентностью (`asyncio`) для обеспечения плавности UI при высоких сетевых нагрузках и обработке медиа.
 
 * **[Multi-Agent Automation (UchiRuBot)](https://github.com/Really-Fun/UchiRuBot)** — Распределенная система автоматизации с "sandbox" аккаунтами.
-  * **Стек:** `Python`, `asyncio`, REST API.
+  * **Стек:** `Python`, `Selenium`, `requests`, `flet`.
   * **Фокус:** Проектирование архитектуры для параллельного управления множеством агентов, реализация алгоритмов рекурсивного поиска и обработки данных.
 
 * **[GhostHTTP (In Progress)]** — Research-проект в области сетевой безопасности и обхода блокировок.
