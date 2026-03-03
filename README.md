@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="#-👨‍💻-обо-мне"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-  <a href="#-key-projects"><img src="https://img.shields.io/badge/-PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-технологии"><img src="https://img.shields.io/badge/-STACK-00D4FF?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#-алгоритмы"><img src="https://img.shields.io/badge/-ALGORITHMS-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="#-статистика"><img src="https://img.shields.io/badge/-STATS-00D4FF?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
+  <a href="#-обо-мне"><img src="https://img.shields.io/badge/-ABOUT-00D4FF?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="#-key-projects-то-чем-я-горжусь"><img src="https://img.shields.io/badge/-PROJECTS-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-технологии-и-инструменты"><img src="https://img.shields.io/badge/-STACK-00D4FF?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#-алгоритмы-и-челленджи"><img src="https://img.shields.io/badge/-ALGORITHMS-00D4FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="#-статистика-github"><img src="https://img.shields.io/badge/-STATS-00D4FF?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
 </p>
 
 ---
