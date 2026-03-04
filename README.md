@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Привет,+я+ReallyFun;System+%26+Automation+Engineer;Future+Pentester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Привет,+я+ReallyFun;System+%26+Automation+Engineer;Python+Backend+Software+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ```zsh
 > whoami
 ReallyFun: Backend & System Engineer from Russia.
-Status: Building robust backend systems, exploring network security and low-level programming.
+Status: I'm studying
 Tech Focus: Python (Asyncio), System Architecture, Linux (Arch), C/C++ (university).
 Background: Strong foundation in discrete mathematics, combinatorics, and algorithms.
 Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
