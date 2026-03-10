@@ -21,7 +21,7 @@
 ---
 
 <a name="about"></a>
-### 👨‍💻 Обо мне
+### 👨‍💻 About me
 ```zsh
 > whoami
 ReallyFun: Backend & System Engineer from Russia.
