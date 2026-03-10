@@ -52,7 +52,7 @@ Languages: Russian (Native), English (B1 - Technical).
 ---
 
 <a name="stack"></a>
-### 🖥️ Технологии и инструменты
+### 🖥️ Technologies and tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,django,postgres,git,linux,docker,vscode,postman,githubactions" />
@@ -60,7 +60,7 @@ Languages: Russian (Native), English (B1 - Technical).
 
 ---
 
-### 🚀 Мои инженерные цели на 2026 год
+### 🚀 My engineering goals for 2026
 
 - [ ] **Infrastructure & DevOps:** Внедрить Kubernetes и настроить полноценные CI/CD пайплайны для своих проектов.
 - [ ] **Career:** Присоединиться к сильной команде бэкенд/системной разработки (Junior/Middle) для решения сложных задач.
