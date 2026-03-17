@@ -27,7 +27,7 @@
 ReallyFun: Backend & System Engineer from Russia.
 Status: I'm studying
 Tech Focus: Python (Asyncio), System Architecture, Linux (Arch), C/C++ (university).
-Background: Strong foundation in discrete mathematics, combinatorics, and algorithms.
+Background: Strong foundation in discrete mathematics.
 Philosophy: "If it's O(n), it's slow. If it's O(log n), it's art."
 Languages: Russian (Native), English (B1 - Technical).
 ```
@@ -48,7 +48,7 @@ Languages: Russian (Native), English (B1 - Technical).
 * **[GhostHTTP (In Progress)]** — Research-проект в области сетевой безопасности и обхода блокировок.
   * **Стек:** `Python` / `C`, `Networking`, `TLS/SSL`.
   * **Фокус:** Разработка кастомного протокола маскировки трафика под стандартный TLS для обхода систем DPI (Deep Packet Inspection). Анализ сетевых пакетов.
-
+  * **Стадия: разработка идеи**
 ---
 
 <a name="stack"></a>
@@ -62,11 +62,11 @@ Languages: Russian (Native), English (B1 - Technical).
 
 ### 🚀 My engineering goals for 2026
 
-- [ ] **Infrastructure & DevOps:** Внедрить Kubernetes и настроить полноценные CI/CD пайплайны для своих проектов.
+- [ ] **Infrastructure & DevOps:** Внедрить Kubernetes.
 - [ ] **Career:** Присоединиться к сильной команде бэкенд/системной разработки (Junior/Middle) для решения сложных задач.
-- [ ] **Open Source:** Сделать осмысленный контрибьюшн в крупную open-source библиотеку (с фокусом на асинхронность).
+- [✅] **Open Source:** Сделать осмысленный контрибьюшн в крупную open-source библиотеку (с фокусом на асинхронность).
 - [ ] **Backend Mastery:** Углубить знания экосистемы Django и FastAPI, освоить продвинутые паттерны проектирования архитектуры.
-- [ ] **Security Research:** Довести проект маскировки трафика GhostHTTP до стадии рабочего MVP.
+- [ ] **Security Research:** GhostHTTP.
 
 ---
 
