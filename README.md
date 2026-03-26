@@ -62,7 +62,7 @@ Languages: Russian (Native), English (B1 - Technical).
 
 ### 🚀 My engineering goals for 2026
 
-- [ ] **Infrastructure & DevOps:** Внедрить Kubernetes.
+- [ ] **Infrastructure & DevOps:** Внедрить/изучить Kubernetes.
 - [ ] **Career:** Присоединиться к сильной команде бэкенд/системной разработки (Junior/Middle) для решения сложных задач.
 - [✅] **Open Source:** Сделать осмысленный контрибьюшн в крупную open-source библиотеку (с фокусом на асинхронность).
 - [ ] **Backend Mastery:** Углубить знания экосистемы Django и FastAPI, освоить продвинутые паттерны проектирования архитектуры.
