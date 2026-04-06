@@ -37,7 +37,7 @@ Languages: Russian (Native), English (B1 - Technical).
 <a name="projects"></a>
 ### 🛠️ Key Projects
 
-* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-плеер с потоковой передачей данных.
+* **[CleanPlayer](https://github.com/Really-Fun/CleanPlayer)** — Асинхронный медиа-плеер с потоковой передачей данных (Async MediaPlayer).
   * **Стек:** `Python`, `PySide6`, `asyncio`, `YouTube API`, `Yandex Music API`.
   * **Фокус:** Глубокая работа с конкурентностью (`asyncio`) для обеспечения плавности UI при высоких сетевых нагрузках и обработке медиа.
 
