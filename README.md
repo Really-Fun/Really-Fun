@@ -65,6 +65,7 @@ Languages: Russian (Native), English (B1 - Technical).
 - [ ] **Infrastructure & DevOps:** Внедрить/изучить Kubernetes.
 - [ ] **Career:** Присоединиться к сильной команде бэкенд/системной разработки (Junior/Middle) для решения сложных задач.
 - [✅] **Open Source:** Сделать осмысленный контрибьюшн в крупную open-source библиотеку (с фокусом на асинхронность).
+- [✅] **VPN** Поднять свои впн-сервера (Double VPN, HAProxy - как балансер, vless).
 - [ ] **Backend Mastery:** Углубить знания экосистемы Django и/или FastAPI, освоить продвинутые паттерны проектирования архитектуры.
 - [ ] **Security Research:** GhostHTTP.
 - [] **Изучить основы информационной безопасности и сетей**
