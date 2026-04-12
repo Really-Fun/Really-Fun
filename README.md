@@ -73,7 +73,7 @@ Languages: Russian (Native), English (B1 - Technical).
 ---
 
 <a name="algorithms"></a>
-### 🧠 Алгоритмы и Челленджи
+### 🧠 Algorithms and Challenges
 
 <div align="center">
   <a href="https://www.codewars.com/users/Rillifan" target="_blank">
