@@ -60,7 +60,6 @@ Open-source десктопный плеер-агрегатор: Яндекс.М�
 
 ### 🧠 Алгоритмы
 
-<a href="https://leetcode.com/u/Rillifan/"><img src="https://leetcard.jacoblin.cool/Rillifan?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" /></a>
 <a href="https://www.codewars.com/users/Rillifan"><img src="https://www.codewars.com/users/Rillifan/badges/large" alt="Codewars Badge" /></a>
 
 <details>
